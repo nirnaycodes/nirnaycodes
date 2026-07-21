@@ -23,8 +23,7 @@ const nirnay = {
   stack: ["Python"],
   launchedProjects: [],
   certifications: [],
-  status: "Currently learning Python",
-  openTo: "Not specified",
+  status: "Currently learning Python"
 };
 ```
 
