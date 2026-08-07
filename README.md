@@ -15,20 +15,6 @@
 
 ---
 
-## Who I Am
-
-```typescript
-const nirnay = {
-  title: "Student",
-  stack: ["Python"],
-  launchedProjects: [],
-  certifications: [],
-  status: "Currently learning Python"
-};
-```
-
----
-
 ## Tech Stack
 
 **Languages**
