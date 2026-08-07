@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Nirnay&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Nirnay%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=Student;Learning+Python;Building+my+GitHub+journey" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=Student%20at%20South%20Asian%20University;Learning+Python;Building+my+GitHub+journey" alt="Typing SVG" />
 </a>
 
 <br/>
