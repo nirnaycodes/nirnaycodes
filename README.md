@@ -37,23 +37,6 @@ const nirnay = {
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nirnaycodes&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirnaycodes&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=nirnaycodes&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
-
-</div>
-
-### Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nirnaycodes&theme=nord&no-frame=true&no-bg=true&margin-w=10" />
-</div>
-
 ### Contribution Activity
 
 <div align="center">
