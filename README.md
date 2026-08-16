@@ -20,6 +20,7 @@
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=py" />
+<img src="https://skillicons.dev/icons?i=c" />
 
 ---
 
