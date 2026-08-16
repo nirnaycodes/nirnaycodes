@@ -19,8 +19,8 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py" />         <img src="https://skillicons.dev/icons?i=c" />
-
+<img src="https://skillicons.dev/icons?i=py" style="margin-right: 10px;" />
+<img src="https://skillicons.dev/icons?i=c" />
 ---
 
 ### Contribution Activity
