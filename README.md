@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Nirnay%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-
+t
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=Engineering+Student;Building+my+GitHub+journey" alt="Typing SVG" />
 </a>
