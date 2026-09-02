@@ -19,7 +19,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=py" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp" />
 
 ### Contribution Activity
 
